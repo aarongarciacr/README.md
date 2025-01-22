@@ -1,7 +1,5 @@
 # README.md
 
-![Profile Image](https://via.placeholder.com/150)
-
 👋 Hello! I'm **Aaron Garcia**  
 🔧 Full-Stack Developer | Tech Problem-Solver | Lifelong Learner  
 💡 I specialize in building intuitive and scalable web applications with modern technologies.
